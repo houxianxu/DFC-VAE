@@ -1,0 +1,12 @@
+cache
+*VGG_ILSVRC*
+checkpoints/*
+celebA/check*
+celebA/attribute_prediction/
+celebA/temp/
+celebA/img_align_celeba/
+images/old_results
+temp
+*.mat
+*.pyc
+*.csv
