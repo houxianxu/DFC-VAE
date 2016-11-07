@@ -61,6 +61,7 @@ Open a new terminal and start the server for display images in the browser
 ```bash
 th -ldisplay.start 8000 0.0.0.0
 ```
+The images can be seen at http://localhost:8000 in the browser
 
 Training with feature perceptual loss.
 ```bash
