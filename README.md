@@ -57,6 +57,11 @@ cd data/pretrained && bash download_models.sh && cd ../..
 
 ## Training
 
+Open a new terminal and start the server for display images in the browser
+```bash
+th -ldisplay.start 8000 0.0.0.0
+```
+
 Training with feature perceptual loss.
 ```bash
 DATA_ROOT=celebA th main_cvae_content.lua
