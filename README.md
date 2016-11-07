@@ -20,7 +20,7 @@ After installing Torch according to [this tutorial](http://torch.ch/docs/getting
 ```bash
 sudo apt-get install libprotobuf-dev protobuf-compiler
 luarocks install loadcaffe
-luarocks install https://raw.githubusercontent.com/szym/display/master/luarocks install display-scm-0.rockspec
+luarocks install https://raw.githubusercontent.com/szym/display/master/display-scm-0.rockspec
 luarocks install nngraph
 sudo apt-get install libmatio2
 luarocks install matio
