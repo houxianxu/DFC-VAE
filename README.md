@@ -97,7 +97,7 @@ DATA_ROOT=celebA reconstruction=0 th generate.lua
 ```
 
 Following are some examples:
-<div align='center'>
+<div>
 	<img src='images/output_content.png', width="60%">
 </div>
 ## Linear interpolation between two face images
@@ -106,7 +106,7 @@ Following are some examples:
 th linear_walk_two_images.lua
 ```
 <!-- <img src='images/linear_walk_man.jpg', width="60%"> -->
-<div align='center'>
+<div>
 	<img src='images/random.gif', width="40%">
 </div>
 ## Vector arithmetic for visual attributes
@@ -122,7 +122,7 @@ th linear_walk_attribute_vector.lua
 ```
 
 Here are some examples:
-<div align='center'>
+<div>
 	<img src='images/combined.gif', width="40%">
 </div>
 <!-- <img src='images/output_add_glass.jpg', width="60%"> -->
