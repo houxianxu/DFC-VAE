@@ -97,17 +97,18 @@ DATA_ROOT=celebA reconstruction=0 th generate.lua
 ```
 
 Following are some examples:
-
-<img src='images/output_content.png', width="60%">
-
+<div align='center'>
+	<img src='images/output_content.png', width="60%">
+</div>
 ## Linear interpolation between two face images
 
 ```bash
 th linear_walk_two_images.lua
 ```
 <!-- <img src='images/linear_walk_man.jpg', width="60%"> -->
-<img src='images/random.gif', width="40%">
-
+<div align='center'>
+	<img src='images/random.gif', width="40%">
+</div>
 ## Vector arithmetic for visual attributes
 
 First preprocess the celebA dataset annotations to separate the dataset to two parts for each attribute, indicating whether containing the specific attribute or not.
@@ -121,8 +122,9 @@ th linear_walk_attribute_vector.lua
 ```
 
 Here are some examples:
-
-<img src='images/combined.gif', width="40%">
+<div align='center'>
+	<img src='images/combined.gif', width="40%">
+</div>
 <!-- <img src='images/output_add_glass.jpg', width="60%"> -->
 
 ## Credits
