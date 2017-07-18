@@ -131,4 +131,19 @@ Here are some examples:
 
 The code is based on [neural-style](https://github.com/jcjohnson/neural-style), [dcgan.torch](https://github.com/soumith/dcgan.torch), [VAE-Torch](https://github.com/y0ast/VAE-Torch) and [texture_nets](https://github.com/DmitryUlyanov/texture_nets).
 
+## Citation
+
+If you find this code useful for your research, please cite:
+
+```
+@inproceedings{hou2017deep,
+  title={Deep Feature Consistent Variational Autoencoder},
+  author={Hou, Xianxu and Shen, Linlin and Sun, Ke and Qiu, Guoping},
+  booktitle={Applications of Computer Vision (WACV), 2017 IEEE Winter Conference on},
+  pages={1133--1141},
+  year={2017},
+  organization={IEEE}
+}
+```
+
 
