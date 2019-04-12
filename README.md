@@ -127,6 +127,16 @@ Here are some examples:
 </div>
 <!-- <img src='images/output_add_glass.jpg', width="60%"> -->
 
+
+## Better face attributes manipulation by incorporating GAN
+<div>
+	<img src='images/new-results/bald.gif', width="30%"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src='images/new-results/smile.gif', width="30%">
+</div>
+
+
+
+
 ## Credits
 
 The code is based on [neural-style](https://github.com/jcjohnson/neural-style), [dcgan.torch](https://github.com/soumith/dcgan.torch), [VAE-Torch](https://github.com/y0ast/VAE-Torch) and [texture_nets](https://github.com/DmitryUlyanov/texture_nets).
@@ -145,5 +155,15 @@ If you find this code useful for your research, please cite:
   organization={IEEE}
 }
 ```
-
+```
+@article{hou2019improving,
+  title={Improving Variational Autoencoder with Deep Feature Consistent and Generative Adversarial Training},
+  author={Hou, Xianxu and Sun, Ke and Shen, Linlin and Qiu, Guoping},
+  journal={Neurocomputing},
+  volume={341},
+  pages={183--194},
+  year={2019},
+  publisher={Elsevier},
+}
+```
 
